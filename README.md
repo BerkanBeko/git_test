@@ -1,0 +1,1 @@
+This is Berkan's first git project!
